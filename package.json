@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "firebase": "^10.12.3",
+    "react-router-dom": "6",
     "sass": "^1.77.8"
   }
 }
